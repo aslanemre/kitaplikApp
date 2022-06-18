@@ -19,8 +19,7 @@ LocalDB ile oluşturulmuş basit bir Windows Forms uygulamasıdır.
 # 6 - Veri silme kodu yazıldı.
 ![img](6.png)
 
-# 7 -
-Tüm verileri listeleme kodu yazıldı.
+# 7 - Tüm verileri listeleme kodu yazıldı.
 ![img](7.png)
 
 # 8 - LocalDB çıktıları.
